@@ -13,7 +13,8 @@ How to compile and run code:
  > python mnb.py  
  3. This program will ask user to   
    3.1 Enter location of training root folder:       
- > training/    <br />  
+ > training/
+ 
    3.2 Enter location of test root folder:      
  > test/   
 ------  
