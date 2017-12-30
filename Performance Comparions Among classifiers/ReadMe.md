@@ -25,9 +25,9 @@ Two source files: findbest.py and testall.py
 This program is tested in terminal from MacOS 10.12.3     
 
 ------  
-How to compile and run code:  
-1.Open terminal and set the path to where the source code is located at   
-2.Enter command:  
+**How to compile and run code**:  
+1. Open terminal and set the path to where the source code is located at   
+2. Enter command:  
   > python findbest.py   
 3. Or enter command:  
   > python testall.py  
