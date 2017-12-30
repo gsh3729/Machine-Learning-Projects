@@ -18,5 +18,5 @@ How to compile and run code:
 > test/   
 
 ------  
-Analysis of results:  
+**Analysis of results**:  
 Based on the result, we can see that each accuracy of the given classes is greater than 80%. Besides excluding header portions of each file, we eliminate words with length less than 4 characters when building the vocabulary. For instance, “a”, “the”, “for”, or “are” are not useful words. Excluding those words increased the accuracy.
