@@ -11,7 +11,7 @@ How to compile and run code:
 1. Open terminal and set the path to where the source code is located at   
 2. Enter command:  
 > python mnb.py  
-3. This program will ask user to   
+3. This program will ask user to:     
 3.1 Enter location of training root folder:         
 > training/  
 3.2 Enter location of test root folder:        
