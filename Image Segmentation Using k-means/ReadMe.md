@@ -10,7 +10,7 @@ This program is tested in terminal from MacOS 10.12.3
 How to compile and run code:
 1.Open terminal and set the path to where the source code is located at 
 2.Enter command:
-    python 3.py 
+    > python 3.py 
 ------
 Note:
 1. This image clustering processing will take about 1 minute.
